@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692349195081",
+    "firebase_url": "https://simpkd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "simpkd",
+    "storage_bucket": "simpkd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692349195081:android:3f2aded11c31bda45ac098",
+        "android_client_info": {
+          "package_name": "com.example.simpkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692349195081-373dadbh20ki9vcfnp62eh8i0o8tn3c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCag5aYgXW_61ixse7JO_XFe_g_V1twYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692349195081-373dadbh20ki9vcfnp62eh8i0o8tn3c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
