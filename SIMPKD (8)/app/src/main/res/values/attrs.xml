@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="AutoCompleteChip">
-        <attr name="android:label" format="string" />
-        <attr name="android:background" format="color" />
-        <attr name="addOnDone" format="boolean" />
-    </declare-styleable>
-</resources>
